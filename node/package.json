@@ -1,0 +1,15 @@
+{
+  "name": "tdd-example",
+  "version": "1.0.0",
+  "description": "example of tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "dev": "nodemon"
+  },
+  "author": "Gustavo Toporowicz",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
